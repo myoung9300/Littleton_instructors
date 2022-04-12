@@ -1,4 +1,4 @@
-[
+{"instructors":[
 	{
 		"id": "1",
 		"name": "Master Young",
@@ -47,4 +47,4 @@
 		"position": "Assistant Instructor",
 		"calendly": "https://calendly.com/grahambee"
 	}
-]
+]}
