@@ -1,4 +1,4 @@
-instructors = [
+[
 	{
 		id: "1",
 		name: "Master Young",
