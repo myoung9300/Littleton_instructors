@@ -6,7 +6,8 @@
 		"email": "myoung9300@yahoo.com",
 		"position": "Head Instructor",
 		"calendly": "https://calendly.com/masteryoung",
-		"pic1" : "https://myoung9300.github.io/instructors/instPics/matt2.jpg"
+		"pic1" : "https://myoung9300.github.io/instructors/instPics/matt2.jpg",
+		"pic2" : "https://myoung9300.github.io/instructors/instPics/nick2.jpg"
 	},
 	{
 		"id": "2",
@@ -15,7 +16,8 @@
 		"email": "cisnerosnorth@comcast.net",
 		"position": "Admissions Director",
 		"calendly": "https://calendly.com/mr-c",
-		"pic1" : "https://myoung9300.github.io/instructors/instPics/sal1.jpg"
+		"pic1" : "https://myoung9300.github.io/instructors/instPics/sal1.jpg",
+		"pic2" : "https://myoung9300.github.io/instructors/instPics/sal2.jpg"
 	},
 	{
 		"id": "3",
@@ -24,7 +26,8 @@
 		"email": "nicmor2@gmail.com",
 		"position": "Assistant Instructor",
 		"calendly": "https://calendly.com/nicmor2",
-		"pic1" : "https://myoung9300.github.io/instructors/instPics/nick1.jpg"
+		"pic1" : "https://myoung9300.github.io/instructors/instPics/nick1.jpg",
+		"pic2" : "https://myoung9300.github.io/instructors/instPics/nick2.jpg"
 	},
 	{
 		"id": "4",
@@ -33,7 +36,8 @@
 		"email": "kayleeyoung222@gmail.com",
 		"position": "Assistant Instructor",
 		"calendly": "",
-		"pic1" : "https://myoung9300.github.io/instructors/instPics/kaylee1.jpg"
+		"pic1" : "https://myoung9300.github.io/instructors/instPics/kaylee1.jpg",
+		"pic2" : "https://myoung9300.github.io/instructors/instPics/kaylee2.jpg"
 	},
 	{
 		"id": "5",
@@ -42,7 +46,8 @@
 		"email": "jessiemessie2003@gmail.com",
 		"position": "Assistant Instructor",
 		"calendly": "",
-		"pic1" : "https://myoung9300.github.io/instructors/instPics/jessica1.jpg"
+		"pic1" : "https://myoung9300.github.io/instructors/instPics/jessica1.jpg",
+		"pic2" : "https://myoung9300.github.io/instructors/instPics/jessica2.jpg"
 	},
 	{
 		"id": "6",
@@ -51,6 +56,7 @@
 		"email": "doritybee@gmail.com",
 		"position": "Assistant Instructor",
 		"calendly": "https://calendly.com/grahambee",
-		"pic1" : "https://myoung9300.github.io/instructors/instPics/brandi1.jpg"
+		"pic1" : "https://myoung9300.github.io/instructors/instPics/brandi1.jpg",
+		"pic2" : "https://myoung9300.github.io/instructors/instPics/brandi2.jpg"
 	}
 ]}
