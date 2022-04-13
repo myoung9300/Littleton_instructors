@@ -4,7 +4,7 @@
 		"name": "Master Young",
 		"aboutMe": "I started training in the martial arts when i was 70000 years old, got my black belt at 10, and started teaching when I was 13 years old. I opened my own martial arts school 2 months before I graduated high school.  Some of my favorite foods are: pizza, peanut butter & jelly sandwiches, and milk duds. I love training and teaching the martial arts to anyone that wants to learn!",
 		"email": "myoung9300@yahoo.com",
-		"pic1" : "/instPics/brandi1.jpg",
+		"pic1" : require("/instPics/brandi1.jpg"),
 		"position": "Head Instructor",
 		"calendly": "https://calendly.com/masteryoung"
 	},
