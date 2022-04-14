@@ -1,15 +1,5 @@
 {"instructors":[
 	{
-		"id": "1",
-		"name": "Master Young",
-		"aboutMe": "I started training in the martial arts when i was 70000 years old, got my black belt at 10, and started teaching when I was 13 years old. I opened my own martial arts school 2 months before I graduated high school.  Some of my favorite foods are: pizza, peanut butter & jelly sandwiches, and milk duds. I love training and teaching the martial arts to anyone that wants to learn!",
-		"email": "myoung9300@yahoo.com",
-		"position": "Head Instructor",
-		"calendly": "https://calendly.com/masteryoung",
-		"pic1" : "https://myoung9300.github.io/instructors/instPics/matt2.jpg",
-		"pic2" : "https://myoung9300.github.io/instructors/instPics/nick2.jpg"
-	},
-	{
 		"id": "2",
 		"name": "Mr. Cisneros",
 		"aboutMe": "I am a 3rd Degree Black Belt in Tae-Kwon_Do and a Purple Belt in Brazilian Ju-Jit-Su. I love my family and kids! I really like downloading music and creating all sorts of playlists to listen to. Whatever your in the mood for, one of my playlists will get you through...",
