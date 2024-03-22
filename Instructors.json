@@ -1,33 +1,33 @@
 {"instructors":[
 		{
 		"id": "1",
+		"name": "Ms. Young",
+		"aboutMe": "Hi! I'm a 3rd Degree Black Belt here at Exclusive Martial Arts. Through my 17 years of training I have discovered that teaching is my passion. I am currently a student at Metropolitian State Unviversity of Denver getting my degree in business. My family, dogs, and friends are the most important things in my life besides karate!   ",
+		"email": "kayleeyoung222@gmail.com",
+		"position": "Head Instructor",
+		"calendly": "https://calendly.com/kyoung12866",
+		"pic1" : "https://myoung9300.github.io/Littleton_instructors/instPics/kaylee1.jpg",
+		"pic2" : "https://myoung9300.github.io/Littleton_instructors/instPics/kaylee2.jpg"
+	},	
+	{
+		"id": "2",
 		"name": "Master Young",
 		"aboutMe": "I started training in the martial arts when i was 7 years old, got my black belt at 10, and started teaching when I was 13 years old. I opened my own martial arts school 2 months before I graduated high school.  Some of my favorite foods are: pizza, peanut butter & jelly sandwiches, and milk duds. I love training and teaching the martial arts to anyone that wants to learn!",
 		"email": "myoung9300@yahoo.com",
-		"position": "Head Instructor",
+		"position": "Owner/Instructor",
 		"calendly": "https://calendly.com/masteryoung",
 		"pic1" : "https://myoung9300.github.io/Littleton_instructors/instPics/matt1.jpg",
 		"pic2" : "https://myoung9300.github.io/Littleton_instructors/instPics/matt2.jpg"
 	},
 	{
-		"id": "2",
+		"id": "3",
 		"name": "Mr. Cisneros",
 		"aboutMe": "I am a 3rd Degree Black Belt in Tae-Kwon_Do and a Purple Belt in Brazilian Ju-Jit-Su. I love my family and kids! I really like downloading music and creating all sorts of playlists to listen to. Whatever your in the mood for, one of my playlists will get you through...",
 		"email": "cisnerosnorth@comcast.net",
-		"position": "Admissions Director",
+		"position": "Owner/Admissions Director",
 		"calendly": "https://calendly.com/mr-c",
 		"pic1" : "https://myoung9300.github.io/Littleton_instructors/instPics/sal1.jpg",
 		"pic2" : "https://myoung9300.github.io/Littleton_instructors/instPics/sal2.jpg"
-	},
-	{
-		"id": "3",
-		"name": "Ms. Young",
-		"aboutMe": "Hi! I'm a 3rd Degree Black Belt here at Exclusive Martial Arts. Through my 17 years of training I have discovered that teaching is my passion. I am currently a student at Metropolitian State Unviversity of Denver getting my degree in business. My family, dogs, and friends are the most important things in my life besides karate!   ",
-		"email": "kayleeyoung222@gmail.com",
-		"position": "Assistant Instructor",
-		"calendly": "https://calendly.com/kyoung12866",
-		"pic1" : "https://myoung9300.github.io/Littleton_instructors/instPics/kaylee1.jpg",
-		"pic2" : "https://myoung9300.github.io/Littleton_instructors/instPics/kaylee2.jpg"
 	},
 	{
 		"id": "4",
