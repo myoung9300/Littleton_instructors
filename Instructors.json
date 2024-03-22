@@ -11,26 +11,6 @@
 	},	
 	{
 		"id": "2",
-		"name": "Master Young",
-		"aboutMe": "I started training in the martial arts when i was 7 years old, got my black belt at 10, and started teaching when I was 13 years old. I opened my own martial arts school 2 months before I graduated high school.  Some of my favorite foods are: pizza, peanut butter & jelly sandwiches, and milk duds. I love training and teaching the martial arts to anyone that wants to learn!",
-		"email": "myoung9300@yahoo.com",
-		"position": "Owner/Instructor",
-		"calendly": "https://calendly.com/masteryoung",
-		"pic1" : "https://myoung9300.github.io/Littleton_instructors/instPics/matt1.jpg",
-		"pic2" : "https://myoung9300.github.io/Littleton_instructors/instPics/matt2.jpg"
-	},
-	{
-		"id": "3",
-		"name": "Mr. Cisneros",
-		"aboutMe": "I am a 3rd Degree Black Belt in Tae-Kwon_Do and a Purple Belt in Brazilian Ju-Jit-Su. I love my family and kids! I really like downloading music and creating all sorts of playlists to listen to. Whatever your in the mood for, one of my playlists will get you through...",
-		"email": "cisnerosnorth@comcast.net",
-		"position": "Owner/KB Instructor",
-		"calendly": "https://calendly.com/mr-c",
-		"pic1" : "https://myoung9300.github.io/Littleton_instructors/instPics/sal1.jpg",
-		"pic2" : "https://myoung9300.github.io/Littleton_instructors/instPics/sal2.jpg"
-	},
-	{
-		"id": "4",
 		"name": "Mrs. Graham",
 		"aboutMe": "I'm a 1st degree belt at EMA. I have been training for 6 years. I have a Masters Degree in Youth and Family studies. My passion is working with kids and their family's in all areas of life. I just got married in October of 2021. We are enjoying our first years of marriage living in a van that we built out. I also, love nature and photography.",
 		"email": "doritybee@gmail.com",
@@ -40,7 +20,7 @@
 		"pic2" : "https://myoung9300.github.io/Littleton_instructors/instPics/brandi2.jpg"
 	},
 	{
-		"id": "5",
+		"id": "3",
 		"name": "Mrs. Steidley",
 		"aboutMe": "I am a 1 st degree black belt and have been training for 7 years with EMA. Nunchucks are my favorite weapon to work with and I love trying to learn new tricks with them! I In addition to teaching at EMA, I am also a graphic designer, artist and writer and I run my own business. Some of my favorite things about teaching at EMA are creating silly themed warmups and getting to share my love of karate with my 11-year old son who is working his way towards his own black belt.",
 		"email": "jennifer@steidleydesign.com",
@@ -50,7 +30,7 @@
 		"pic2" : "https://myoung9300.github.io/Littleton_instructors/instPics/jen2.jpg"
 	},
 		{
-		"id": "6",
+		"id": "4",
 		"name": "Mr. Pinkerton",
 		"aboutMe": "Hello and welcome to my bio. Some things that I like to do for fun are playing basketball, mostly street ball, practicing my martial arts, and finally practicing for the track season. One of my favorite foods is lava cakes from Dominos. I am a third degree black belt with EMA. I have been doing martial arts for 13+ years. My favorite thing I have been taught that I now teach is the bow staff. I like that weapon because the strikes and blocks can flow all together!",
 		"email": "kpinkerton1221@gmail.com",
@@ -60,7 +40,7 @@
 		"pic2" : "https://myoung9300.github.io/Littleton_instructors/instPics/Kyle1.jpg"
 	},
 		{
-		"id": "7",
+		"id": "5",
 		"name": "Mr. Minnihan",
 		"aboutMe": "Hi! I am a 1st Degree black belt, and have been training with EMA for over 7 years. I am currently a senior in high school. My passion is teaching the martial arts, and online content creation! One of my favorite weapons to learn and teach is the Sai because of its simplicity, and versatility!",
 		"email": "an.minnihan@gmail.com",
@@ -68,5 +48,25 @@
 		"calendly": "https://calendly.com/an-minnihan",
 		"pic1" : "https://myoung9300.github.io/Littleton_instructors/instPics/Andrew1.jpg",
 		"pic2" : "https://myoung9300.github.io/Littleton_instructors/instPics/jen2.jpg"
-	}
+	},
+	{
+		"id": "6",
+		"name": "Master Young",
+		"aboutMe": "I started training in the martial arts when i was 7 years old, got my black belt at 10, and started teaching when I was 13 years old. I opened my own martial arts school 2 months before I graduated high school.  Some of my favorite foods are: pizza, peanut butter & jelly sandwiches, and milk duds. I love training and teaching the martial arts to anyone that wants to learn!",
+		"email": "myoung9300@yahoo.com",
+		"position": "Owner/Instructor",
+		"calendly": "https://calendly.com/masteryoung",
+		"pic1" : "https://myoung9300.github.io/Littleton_instructors/instPics/matt1.jpg",
+		"pic2" : "https://myoung9300.github.io/Littleton_instructors/instPics/matt2.jpg"
+	},
+	{
+		"id": "7",
+		"name": "Mr. Cisneros",
+		"aboutMe": "I am a 3rd Degree Black Belt in Tae-Kwon_Do and a Purple Belt in Brazilian Ju-Jit-Su. I love my family and kids! I really like downloading music and creating all sorts of playlists to listen to. Whatever your in the mood for, one of my playlists will get you through...",
+		"email": "cisnerosnorth@comcast.net",
+		"position": "Owner/KB Instructor",
+		"calendly": "https://calendly.com/mr-c",
+		"pic1" : "https://myoung9300.github.io/Littleton_instructors/instPics/sal1.jpg",
+		"pic2" : "https://myoung9300.github.io/Littleton_instructors/instPics/sal2.jpg"
+	},
 ]}
