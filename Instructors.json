@@ -23,7 +23,7 @@
     {
       "id": "3",
       "name": "Mrs. Steidley",
-      "aboutMe": "I am a 1 st degree black belt and have been training for 7 years with EMA. Nunchucks are my favorite weapon to work with and I love trying to learn new tricks with them! I In addition to teaching at EMA, I am also a graphic designer, artist and writer and I run my own business. Some of my favorite things about teaching at EMA are creating silly themed warmups and getting to share my love of karate with my 11-year old son who is working his way towards his own black belt.",
+      "aboutMe": "I am a 1 st degree black belt and have been training for 7 years with EMA. Nunchakus are my favorite weapon to work with and I love trying to learn new tricks with them! I In addition to teaching at EMA, I am also a graphic designer, artist and writer and I run my own business. Some of my favorite things about teaching at EMA are creating silly themed warmups and getting to share my love of karate with my 11-year old son who is working his way towards his own black belt.",
       "email": "jennifer@steidleydesign.com",
       "position": "Assistant Instructor",
       "calendly": "https://calendly.com/emasteidley",
@@ -59,6 +59,6 @@
       "calendly": "https://calendly.com/masteryoung",
       "pic1": "https://myoung9300.github.io/Littleton_instructors/instPics/matt1.jpg",
       "pic2": "https://myoung9300.github.io/Littleton_instructors/instPics/matt2.jpg"
-    },
+    }
   ]
 }
